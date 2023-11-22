@@ -1,4 +1,4 @@
-    <h2 class="text-center mt-5">Regisztráció</h2>
+ <h2 class="text-center mt-5">Regisztráció</h2>
     <form action="regisztral" method="post">
         <div class="row">
             <div class="col text-end">
